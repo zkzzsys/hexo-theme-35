@@ -26,7 +26,6 @@ menu:
     旧时光: /site/time/ || icon-xianxingshalou || faa-tada
   个人 || icon-maoliang || faa-tada || hide:
     唠叨: /personal/bb/ || icon-qunliaotian || faa-tada
-    恋爱小屋: /personal/love/ || icon-love-sign || faa-tada
     关于: /personal/about/ || icon-paperplane || faa-tada
 
 # Code Blocks (代碼相關)
@@ -56,7 +55,7 @@ social:
   QQ: https://res.abeim.cn/api/qq/?qq=1174008660 || icon-QQ || faa-tada
   B站: https://space.bilibili.com/220757832 || icon-bilibili || faa-tada
   QQ邮箱: mailto:1174008660@qq.com || icon-youxiang || faa-tada
-  力扣: https://leetcode.cn/u/fomalhaut1998 || icon-leetcode || faa-tada
+  # 力扣: https://leetcode.cn/u/fomalhaut1998 || icon-leetcode || faa-tada
   # 微博: https://weibo.com/u/6473136435 || icon-weibo || faa-tada
   # 知乎: https://www.zhihu.com/people/liang-jia-chao-19 || icon-shejiaotubiao-10 || faa-tada
   # RSS: /atom.xml || icon-RSS || faa-tada
@@ -702,10 +701,10 @@ aside:
       enable: true
       icon: # fab fa-github
       text: 前往小窝
-      link: https://github.com/fomalhaut1998
+      link: https://github.com/sharkbaby12345
   card_announcement:
     enable: true
-    content: <center><b>--- 主域名 ---<br><a href="https://www.fomal.cc" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">fomal.cc</font></a>&nbsp;|&nbsp;<a href="https://www.fomal.cn" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">fomal.cn</font></a><br>--- 备用域名 ---<br><a href="https://netlify.fomal.cc" title="此线路部署于Netlify" class="anno_content"><font color="#5ea6e5">netlify.fomal.cc</font></a><br><a href="https://cloudflare.fomal.cc" title="此线路部署于Cloudflare" class="anno_content"><font color="#5ea6e5">cloudflare.fomal.cc</font></a><br>--- 网站安卓APP ---<br>🍧<a href="https://lskypro.acozycotage.net/Fomalhaut/Fomalhaut.apk" title="点这里可以下载网站的安卓APP" class="anno_content"><font color="#5ea6e5">点此下载</font></a>🍧</b></center>
+    content: <center><b>--- 主域名 ---<br><a href="https://wiki.sharkbaby.top" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">wiki.sharkbaby.top</font></a><br>--- 备用域名 ---<br><a href="https://wiki.012023.xyz" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">wiki.012023.xyz</font></a><br>--- chatGPT ---<br>🍧<a href="https://chatgpt.sharkbaby.top" title="对接chatGPT官网" class="anno_content"><font color="#5ea6e5">chatgpt.sharkbaby.top</font></a>🍧</b></center>
   card_recent_post:
     enable: false
     limit: 3 # if set 0 will show all
