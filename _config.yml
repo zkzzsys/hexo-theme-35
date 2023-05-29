@@ -124,7 +124,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   - type: git
-    repository:  # 这里写上你的Github地址
+    repository:  https://github.com/sharkbaby12345
     branch: main
   # - type: baidu_url_submitter
   # - type: git
@@ -270,20 +270,20 @@ magnet:
   type: categories
   devide: 3
   display:
-    - name: 算法
-      display_name: Sharkbabyの算法学习笔记
+    - name: 机场软件使用教程
+      display_name: Sharkbabyの机场软件使用教程
       icon: 🍡
-    - name: 计算机基础
-      display_name: Sharkbabyの计算机基础笔记
+    - name: 机场搭建
+      display_name: Sharkbabyの机场搭建笔记
       icon: 🍼
-    - name: 魔改教程
-      display_name: Sharkbabyの博客魔改教程
+    - name: 节点搭建
+      display_name: Sharkbabyの节点搭建笔记
       icon: 🍉
-    - name: Java基础
-      display_name: SharkbabyのJava基础笔记
+    - name: 发卡网站搭建
+      display_name: Sharkbabyの发卡网站搭建笔记
       icon: 🍟
-    - name: 数据库
-      display_name: Sharkbabyの数据库笔记
+    - name: 博客魔改教程
+      display_name: Sharkbabyの博客魔改教程
       icon: 🍨
     - name: 演示
       display_name: Sharkbabyの案例演示笔记
