@@ -26,7 +26,7 @@ menu:
     旧时光: /site/time/ || icon-xianxingshalou || faa-tada
   个人 || icon-maoliang || faa-tada || hide:
     唠叨: /personal/bb/ || icon-qunliaotian || faa-tada
-    恋爱小屋: /personal/love/ || icon-love-sign || faa-tada
+# 恋爱小屋: /personal/love/ || icon-love-sign || faa-tada
     关于: /personal/about/ || icon-paperplane || faa-tada
 
 # Code Blocks (代碼相關)
@@ -439,8 +439,8 @@ gitter:
 # crisp
 # https://crisp.chat/en/
 crisp:
-  enable: false
-  website_id:
+  enable: true
+  website_id:676c4ebf-940e-4aaf-b83c-53943c312621
 
 # Footer Settings
 # --------------------------------------
@@ -705,7 +705,7 @@ aside:
       link: https://github.com/sharkbaby12345
   card_announcement:
     enable: true
-    content: <center><b>--- 主域名 ---<br><a href="https://wiki.sharkbaby.top" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">wiki.sharkbaby.top</font></a><br>--- 备用域名 ---<br><a href="https://wiki.012023.xyz" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">www.012023.xyz<font color="#5ea6e5">netlify.fomal.cc</font></a><br>--- chatGPT ---<br>🍧<a href="https://chatgpt.012023.xyz" title="站长自建的chatGPT" class="anno_content"><font color="#5ea6e5">chatgpt.sharkbaby.top</font></a>🍧</b></center>
+    content: <center><b>--- 主域名 ---<br><a href="https://wiki.sharkbaby.top" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">wiki.sharkbaby.top</font></a><br>--- 备用域名 ---<br><a href="https://wiki.012023.xyz" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">www.012023.xyz</a><br>--- chatGPT ---<br>🍧<a href="https://chatgpt.012023.xyz" title="站长自建的chatGPT" class="anno_content"><font color="#5ea6e5">chatgpt.sharkbaby.top</font></a>🍧</b></center>
   card_recent_post:
     enable: false
     limit: 3 # if set 0 will show all
