@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Fomalhaut🥝
+title: Sharkbaby🦈
 subtitle: 
 description: 'Future is now 🍭🍭🍭'
-keywords: 'Java,MySQL,算法,代码,博客,Butterfly,Hexo,Fomalhaut🥝,Fomalhaut'
-author: Fomalhaut🥝
+keywords: 'Java,MySQL,算法,代码,博客,Butterfly,Hexo,Sharkbaby🦈,Sharkbaby'
+author: Sharkbaby🦈
 language: zh-CN
 timezone: ''
 
@@ -271,22 +271,22 @@ magnet:
   devide: 3
   display:
     - name: 算法
-      display_name: 小Fの算法学习笔记
+      display_name: Sharkbabyの算法学习笔记
       icon: 🍡
     - name: 计算机基础
-      display_name: 小Fの计算机基础笔记
+      display_name: Sharkbabyの计算机基础笔记
       icon: 🍼
     - name: 魔改教程
-      display_name: 小Fの博客魔改教程
+      display_name: Sharkbabyの博客魔改教程
       icon: 🍉
     - name: Java基础
-      display_name: 小FのJava基础笔记
+      display_name: SharkbabyのJava基础笔记
       icon: 🍟
     - name: 数据库
-      display_name: 小Fの数据库笔记
+      display_name: Sharkbabyの数据库笔记
       icon: 🍨
     - name: 演示
-      display_name: 小Fの案例演示笔记
+      display_name: Sharkbabyの案例演示笔记
       icon: 🍥
   color_setting:
     text_color: black # 文字默认颜色
