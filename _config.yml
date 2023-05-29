@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Fomalhaut🥝
+title: Sharkbaby🦈
 subtitle: 
 description: 'Future is now 🍭🍭🍭'
-keywords: 'Java,MySQL,算法,代码,博客,Butterfly,Hexo,Fomalhaut🥝,Fomalhaut'
-author: Fomalhaut🥝
+keywords: '机场软件,机场搭建,节点对接,发卡网搭建,博客搭建,Sharkbaby🦈,Sharkbaby'
+author: Sharkbaby🦈
 language: zh-CN
 timezone: ''
 
@@ -18,7 +18,7 @@ abbrlink:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://www.fomal.cc/
+url: https://wiki.sharkbaby.top/
 permalink: posts/:abbrlink.html
 permalink_defaults:
 pretty_urls:
@@ -270,23 +270,23 @@ magnet:
   type: categories
   devide: 3
   display:
-    - name: 算法
-      display_name: 小Fの算法学习笔记
+    - name: 机场软件使用教程
+      display_name: Sharkbabyの软件使用教程
       icon: 🍡
-    - name: 计算机基础
-      display_name: 小Fの计算机基础笔记
+    - name: 机场搭建教程
+      display_name: Sharkbabyの机场搭建教程
       icon: 🍼
-    - name: 魔改教程
-      display_name: 小Fの博客魔改教程
+    - name: 节点对接教程
+      display_name: Sharkbabyの节点对接教程
       icon: 🍉
-    - name: Java基础
-      display_name: 小FのJava基础笔记
+    - name: 发卡网搭建教程（独角兽卡）
+      display_name: Sharkbabyの发卡网搭建教程
       icon: 🍟
-    - name: 数据库
-      display_name: 小Fの数据库笔记
+    - name: 博客搭建教程
+      display_name: Sharkbabyの博客搭建教程
       icon: 🍨
     - name: 演示
-      display_name: 小Fの案例演示笔记
+      display_name: Sharkbabyの案例演示笔记
       icon: 🍥
   color_setting:
     text_color: black # 文字默认颜色
