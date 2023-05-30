@@ -552,7 +552,7 @@ tag_ui: # 留空或 index
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
 # "#e4f4f6" "#efefef"
-background:
+background: url(https://wiki.sharkbaby.top/img/dm1.webp)
   #【必选】默认背景 
   default: var(--default-bg)
   #【可选】PC端夜间模式背景 
