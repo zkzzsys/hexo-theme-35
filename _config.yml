@@ -279,12 +279,15 @@ magnet:
     - name: 节点对接教程
       display_name: Sharkbabyの节点对接教程
       icon: 🍉
-    - name: 发卡网搭建教程（独角兽卡）
+    - name: 发卡网搭建教程
       display_name: Sharkbabyの发卡网搭建教程
       icon: 🍟
     - name: 博客搭建教程
       display_name: Sharkbabyの博客搭建教程
       icon: 🍨
+    - name: 服务器推荐
+      display_name: Sharkbabyの服务器推荐
+      icon: 🧀
     - name: 演示
       display_name: Sharkbabyの案例演示笔记
       icon: 🍥
