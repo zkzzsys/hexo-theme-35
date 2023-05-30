@@ -115,32 +115,32 @@ avatar:
   img: https://tuchuang.voooe.cn/images/2023/05/30/401ccdd399c20f13cbb273ec829a9d6.jpg
   effect: false
 
-# Disable all banner image
+# Disable all banner image 禁用所有横幅图像
 disable_top_img: false
 
-# The banner image of home page
+# The banner image of home page 首页横幅图片
 index_img: https://wiki.sharkbaby.top/img/dm4.webp
 
-# If the banner of page not setting, it will show the top_img
+# If the banner of page not setting, it will show the top_img 如果页面的banner没有设置，会显示top_img
 default_top_img:
 
-# The banner image of archive page
+# The banner image of archive page 存档页面的横幅图像
 archive_img:
 
-# If the banner of tag page not setting, it will show the top_img
+# If the banner of tag page not setting, it will show the top_img 如果标签页的横幅没有设置，它会显示top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
 tag_img: false
 
-# The banner image of tag page
+# The banner image of tag page 标签页的横幅图片
 # format:
 #  - tag name: xxxxx
 tag_per_img:
 
-# If the banner of category page not setting, it will show the top_img
+# If the banner of category page not setting, it will show the top_img 如果类别页面的横幅没有设置，它将显示 top_img
 # note: category page, not categories page (子分類頁面的 top_img)
 category_img:
 
-# The banner image of category page
+# The banner image of category page 类别页面的横幅图像
 # format:
 #  - category name: xxxxx
 category_per_img:
