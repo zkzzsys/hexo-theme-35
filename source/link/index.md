@@ -1,4 +1,5 @@
 ---
-title: 音乐
-date: 2022-06-01 21:18:31
+title: link
+date: 2022-10-28 12:00:00
+type: "link"
 ---
