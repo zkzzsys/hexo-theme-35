@@ -119,7 +119,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page 首页横幅图片
-index_img: https://wiki.sharkbaby.top/img/dm4.webp
+index_img: 'https://wiki.sharkbaby.top/img/dm4.webp'
 
 # If the banner of page not setting, it will show the top_img 如果页面的banner没有设置，会显示top_img
 default_top_img:
