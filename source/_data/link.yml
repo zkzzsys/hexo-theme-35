@@ -5,17 +5,17 @@
       link: https://wiki.sharkbaby.top/
       avatar: https://tuchuang.voooe.cn/images/2023/05/30/401ccdd399c20f13cbb273ec829a9d6.jpg
       descr: Future is now 🍭🍭🍭
-      siteshot: https://source.fomal.cc/siteshot/hexo.io.jpg
+      siteshot: 
     - name: 鲨鱼云
       link: https://012023.xyz/
       avatar: https://tuchuang.voooe.cn/images/2023/05/30/401ccdd399c20f13cbb273ec829a9d6.jpg
-      descr: 鲨鱼云
-      siteshot: https://source.fomal.cc/siteshot/hexo.io.jpg
+      descr: 专线机场网络，翻墙必备
+      siteshot: 
     - name: 鲨鱼发卡
       link: https://faka.012023.xyz/
       avatar: https://tuchuang.voooe.cn/images/2023/05/30/401ccdd399c20f13cbb273ec829a9d6.jpg
-      descr: 鲨鱼发卡
-      siteshot: https://source.fomal.cc/siteshot/hexo.io.jpg
+      descr: 小火箭共享ID，售独享小火箭账号/独享chatGPT账号
+      siteshot: 
 - class_name: 1.技术支持
   class_desc: 本网站的搭建由以下开源作者提供技术支持
   link_list: 
@@ -23,18 +23,18 @@
       link: https://hexo.io/zh-cn/
       avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
       descr: 快速、简单且强大的网志框架
-      siteshot: https://source.fomal.cc/siteshot/hexo.io.jpg
+      siteshot: 
 - class_name: 2.宝藏网站🍉
-  class_desc: 一些好朋友~~
+  class_desc: 好用的宝藏网站
   link_list:
     - name: 555电影
       link: https://zhenfanjixie.com/
-      avatar: https://tuchuang.voooe.cn/images/2023/05/30/401ccdd399c20f13cbb273ec829a9d6.jpg
+      avatar: https://tuchuang.voooe.cn/images/2023/05/30/555.png
       descr: 555电影
-      siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
+      siteshot: 
     - name: 欧乐影院
       link: https://olevod1.com/
-      avatar: https://tuchuang.voooe.cn/images/2023/05/30/401ccdd399c20f13cbb273ec829a9d6.jpg
+      avatar: https://tuchuang.voooe.cn/images/2023/05/30/ol.png
       descr: 欧乐影院
-      siteshot: https://source.fomal.cc/siteshot/www.fomal.cn.jpg
+      siteshot: 
       
