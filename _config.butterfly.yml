@@ -108,7 +108,7 @@ mathjax:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon:
+favicon: https://wiki.sharkbaby.top/favicon.ico
 
 # Avatar (頭像)
 avatar:
@@ -540,7 +540,7 @@ tag_ui: # 留空或 index
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
 # "#e4f4f6" "#efefef"
-background:
+background: url(https://wiki.sharkbaby.top/img/dm1.webp)
   #【必选】默认背景 
   default: var(--default-bg)
   #【可选】PC端夜间模式背景 
@@ -580,7 +580,7 @@ canvas_fluttering_ribbon:
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
-  enable: false
+  enable: true # false
   color: "0,0,255" #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
   opacity: 0.7 # the opacity of line (0~1), default: 0.5.
   zIndex: -1 # z-index property of the background, default: -1.
