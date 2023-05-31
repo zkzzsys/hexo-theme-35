@@ -1,7 +1,7 @@
 ---
 title: XrayR后端节点对接
 tags:
-  - XrayR后端节点对接
+  - 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接。
 categories:
   - 源码搭建
 swiper_index: 4
