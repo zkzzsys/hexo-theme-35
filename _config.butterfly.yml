@@ -20,10 +20,10 @@ menu:
     朋友圈: /social/fcircle/ || icon-pengyouquan || faa-tada
     留言板: /comments/ || icon-liuyan || faa-tada
     友人帐: /social/link/ || icon-lianjie || faa-tada
-# 网站 || icon-wangye || faa-tada || hide:
-#   网站统计: /site/census/ || icon--tongjibiao || faa-tada
-#   文章统计: /site/echarts/ || icon-shujutongji1 || faa-tada
-#   旧时光: /site/time/ || icon-xianxingshalou || faa-tada
+  网站 || icon-wangye || faa-tada || hide:
+    网站统计: /site/census/ || icon--tongjibiao || faa-tada
+    文章统计: /site/echarts/ || icon-shujutongji1 || faa-tada
+    旧时光: /site/time/ || icon-xianxingshalou || faa-tada
   个人 || icon-maoliang || faa-tada || hide:
     唠叨: /personal/bb/ || icon-qunliaotian || faa-tada
     关于: /personal/about/ || icon-paperplane || faa-tada
