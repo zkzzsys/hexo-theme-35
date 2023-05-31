@@ -21,9 +21,9 @@ menu:
     留言板: /comments/ || icon-liuyan || faa-tada
     友人帐: /social/link/ || icon-lianjie || faa-tada
 # 网站 || icon-wangye || faa-tada || hide:
-    网站统计: /site/census/ || icon--tongjibiao || faa-tada
-    文章统计: /site/echarts/ || icon-shujutongji1 || faa-tada
-    旧时光: /site/time/ || icon-xianxingshalou || faa-tada
+#   网站统计: /site/census/ || icon--tongjibiao || faa-tada
+#   文章统计: /site/echarts/ || icon-shujutongji1 || faa-tada
+#   旧时光: /site/time/ || icon-xianxingshalou || faa-tada
   个人 || icon-maoliang || faa-tada || hide:
     唠叨: /personal/bb/ || icon-qunliaotian || faa-tada
     关于: /personal/about/ || icon-paperplane || faa-tada
@@ -679,7 +679,7 @@ subtitle:
   # source: 2  調用一句網（簡體） http://yijuzhan.com/
   # source: 3  調用今日詩詞（簡體） https://www.jinrishici.com/
   # subtitle 會先顯示 source , 再顯示 sub 的內容
-  source: false
+  source: 1
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
     - "Welcome to Sharkbaby🦈のTiny Home!🤣🤣🤣"
