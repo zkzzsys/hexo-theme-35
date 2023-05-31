@@ -18,7 +18,7 @@ abbrlink:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://wiki.sharkbaby.top/
+url: https://wiki.35id.xyz/
 permalink: posts/:abbrlink.html
 permalink_defaults:
 pretty_urls:
