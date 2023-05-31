@@ -4,7 +4,7 @@ tags:
   - 基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号。
 categories:
   - 源码搭建
-swiper_index: 2
+swiper_index: 3
 date: 2022-10-10 11:11:11
 updated: 2022-12-10 11:11:11
 ---
