@@ -8,7 +8,7 @@ swiper_index: 2
 date: 2022-10-10 11:11:11
 updated: 2022-12-10 11:11:11
 ---
-<h1 align="center"><a href="https://github.com/sharkbaby12345/appleid_auto">Apple ID 自动化管理</a></h1>
+<h1 align="center">Apple ID 自动化管理</h1>
 <p align="center">
     <a href="https://github.com/pplulee/appleid_auto/issues" style="text-decoration:none">
         <img src="https://img.shields.io/github/issues/pplulee/appleid_auto.svg" alt="GitHub issues"/>
@@ -26,7 +26,7 @@ updated: 2022-12-10 11:11:11
 <h3 align="center">中文文档 | <a href="README_en.md">English</a> </h3>
 <h3 align="center">请仔细阅读本文档以及使用说明，再使用。</h3>
 <h3 align="center">使用本项目可能需要一定的基础知识。</h3>
-<h3 align="center">本项目仍在更新当中。</h3>
+<h3 align="center">本项目仍在更新当中。<a href="https://github.com/sharkbaby12345/appleid_auto">源码下载</a></h3>
 
 # 基本简介
 
