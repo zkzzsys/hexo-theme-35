@@ -72,11 +72,11 @@ mathjax:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://wiki.sharkbaby.top/favicon.ico
+favicon: https://wiki.35id.xyz/favicon.ico
 
 # Avatar (頭像)
 avatar:
-  img: https://wiki.sharkbaby.top/img/shark.webp
+  img: https://wiki.wiki.35id.xyz/img/shark.webp
   effect: false
 
 # Disable all banner image
