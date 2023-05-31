@@ -1,5 +1,5 @@
 ---
-title: SSPanel V3 魔改再次修改版
+title: 部署SSPanel V3 魔改再次修改版
 tags:
   - SSPanel V3 魔改再次修改版
 categories:
@@ -8,15 +8,10 @@ swiper_index: 1
 date: 2022-10-10 11:11:11
 updated: 2022-12-10 11:11:11
 ---
-## 这是第6篇文章
-
-
 <h1>SSPanel UIM</h1>
 
 >越过长城我们可以到达世界的每一个角落</br>
 >Across the Great Wall we can reach every corner in the world</br>
-<br/>
-
 
 ## 简介
 
