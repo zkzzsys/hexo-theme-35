@@ -273,8 +273,8 @@ magnet:
     - name: 源码搭建
       display_name: Sharkbabyの源码搭建
       icon: 🍡
-    - name: 软件使用教程
-      display_name: Sharkbabyの软件使用教程
+    - name: 机场软件使用教程
+      display_name: Sharkbabyの机场软件使用教程
       icon: 🍼
     - name: 发卡网搭建
       display_name: Sharkbabyの发卡网搭建
