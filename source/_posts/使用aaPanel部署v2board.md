@@ -1,7 +1,7 @@
 ---
 title: 使用aaPanel部署v2board
 tags:
-  - v2board
+  - 🚀一个多代理协议管理面板应用界面。
 categories:
   - 源码搭建
 swiper_index: 1
