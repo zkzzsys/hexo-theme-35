@@ -4,7 +4,6 @@ tags:
   - 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接。
 categories:
   - 源码搭建
-swiper_index: 4
 date: 2022-10-10 11:11:11
 updated: 2022-12-10 11:11:11
 ---
