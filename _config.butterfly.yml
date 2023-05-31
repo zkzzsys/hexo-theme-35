@@ -708,7 +708,7 @@ aside:
       link: https://github.com/Sharkbaby12345
   card_announcement:
     enable: true
-    content: <center><b>--- 主域名 ---<br><a href="https://35jiasu.xyz" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">wiki.sharkbaby.top</font></a><br>--- 备用域名 ---<br><a href="https://wiki.35id.xyz" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">wiki.012023.xyz</font></a><br>--- chatGPT ---<br>🍀<a href="https://chatgpt.sharkbaby.top" title="站长对接chatGPT官网" class="anno_content"><font color="#5ea6e5">chatgpt.sharkbaby.top</font></a>🍀</b></center>
+    content: <center><b>--- 主域名 ---<br><a href="https://35jiasu.xyz" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">wiki.sharkbaby.top</font></a><br>--- 备用域名 ---<br><a href="https://wiki.35id.xyz" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">wiki.35id.xyz</font></a><br>--- 网站发布页 ---<br>🍀<a href="https://wiki.35id.xyz" title="站长对接chatGPT官网" class="anno_content"><font color="#5ea6e5">chatgpt.sharkbaby.top</font></a>🍀</b></center>
   card_recent_post:
     enable: false
     limit: 3 # if set 0 will show all
