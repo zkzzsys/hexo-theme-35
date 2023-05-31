@@ -31,4 +31,4 @@ updated: 2022-12-10 11:11:11
 ### ios用户请自行使用上方共享账号下载
 
 ## [👉节点购买直接点我](https://35jiasu.xyz/#/register?code=hMd8hBk8 "👉节点购买直接点我") 3年老平台 主打稳定不跑路
-
+{% video https://github.com/volantis-x/volantis-docs/releases/download/assets/IMG_0341.mov %}
