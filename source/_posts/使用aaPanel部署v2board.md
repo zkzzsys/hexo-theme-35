@@ -3,8 +3,8 @@ title: 使用aaPanel部署v2board
 tags:
   - v2board
 categories:
-  - 机场搭建
-swiper_index: 3
+  - 源码搭建
+swiper_index: 1
 date: 2022-10-10 11:11:11
 updated: 2022-12-10 11:11:11
 ---
