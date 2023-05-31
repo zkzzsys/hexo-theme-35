@@ -4,7 +4,7 @@ tags:
   - 打造的一款简洁美观的图片上传工具.
 categories:
   - 源码搭建
-swiper_index: 4
+swiper_index: 2
 date: 2022-10-10 11:11:11
 updated: 2022-12-10 11:11:11
 ---
