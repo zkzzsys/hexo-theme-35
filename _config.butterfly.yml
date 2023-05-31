@@ -4,29 +4,8 @@
 
 menu:
   首页: / || icon-home || faa-tada
-  文章 || icon--article || faa-tada || hide:
-    归档: /archives/ || icon-guidang1 || faa-tada
-    标签: /tags/ || icon-sekuaibiaoqian || faa-tada
-    分类: /categories/ || icon-fenlei || faa-tada
-  休闲 || icon-pinweishenghuo || faa-tada || hide:
-    八音盒: /life/music/ ||icon-yinle || faa-tada
-    影院: /life/movies/ ||icon-dianying1 || faa-tada
-    游戏: /life/games/ || icon-youxishoubing || faa-tada
-  八宝箱 || icon-xiangzi || faa-tada || hide:
-    画廊: /box/gallery/ ||icon-tubiaozhizuomoban || faa-tada
-    动画: /box/animation/ || icon-nvwumao || faa-tada
-    网址导航: /box/nav/ || icon-zhifengche || faa-tada
-  社交 || icon-shejiaoxinxi || faa-tada || hide:
-    朋友圈: /social/fcircle/ || icon-pengyouquan || faa-tada
-    留言板: /comments/ || icon-liuyan || faa-tada
-    友人帐: /social/link/ || icon-lianjie || faa-tada
-  # 网站 || icon-wangye || faa-tada || hide:
     # 网站统计: /site/census/ || icon--tongjibiao || faa-tada
     # 文章统计: /site/echarts/ || icon-shujutongji1 || faa-tada
-    # 旧时光: /site/time/ || icon-xianxingshalou || faa-tada
-  个人 || icon-maoliang || faa-tada || hide:
-    唠叨: /personal/bb/ || icon-qunliaotian || faa-tada
-    关于: /personal/about/ || icon-paperplane || faa-tada
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -51,13 +30,6 @@ copy:
 #   icon: link || the description
 social:
   # RSS: /atom.xml || icon-RSS || faa-tada
-
-  # iconfont icon-github: https://github.com/fomalhaut1998 || Github
-  # iconfont icon-youjian: mailto:1174008660@qq.com || QQ邮箱
-  # iconfont icon-tv: https://space.bilibili.com/220757832 || B站
-  # iconfont icon-leetcode: https://leetcode.cn/u/fomalhaut1998/ || 力扣
-  # iconfont icon-weibo: https://weibo.com/u/6473136435 || 微博
-  # iconfont icon-shejiaotubiao-46: https://www.zhihu.com/people/liang-jia-chao-19 || 知乎
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -705,7 +677,7 @@ aside:
       enable: true
       icon: # fab fa-github
       text: 前往小窝
-      link: https://github.com/Sharkbaby12345
+      link: 
   card_announcement:
     enable: true
     content: <center><b>--- 主域名 ---<br><a href="https://35jiasu.xyz" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">wiki.sharkbaby.top</font></a><br>--- 备用域名 ---<br><a href="https://wiki.35id.xyz" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">wiki.35id.xyz</font></a><br>--- 网站发布页 ---<br>🍀<a href="https://wiki.35id.xyz" title="站长对接chatGPT官网" class="anno_content"><font color="#5ea6e5">chatgpt.sharkbaby.top</font></a>🍀</b></center>
