@@ -1,7 +1,7 @@
 ---
 title: Vercel部署 ChatGPT
 tags:
-  - Vercel部署 ChatGPT
+  - 一键拥有你自己的 ChatGPT 网页服务。
 categories:
   - 源码搭建
 swiper_index: 4
