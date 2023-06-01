@@ -647,7 +647,7 @@ subtitle:
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
     - "Welcome to 35云 のTiny Home!🤣🤣🤣"
-    - "Hope you have a nice day!🍭🍭🍭"
+    - "请牢记此网站 主站打不开时会在这里公布!🍭🍭🍭"
 
 # Loading Animation (加載動畫)
 # preloader: false
