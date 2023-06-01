@@ -270,23 +270,6 @@ magnet:
   type: categories
   devide: 3
   display:
-    - name: 源码搭建
-      display_name: Sharkbabyの源码搭建
-      icon: 🍡
-    - name: 机场软件使用教程
-      display_name: Sharkbabyの机场软件使用教程
-      icon: 🍼
-    - name: 发卡网搭建
-      display_name: Sharkbabyの发卡网搭建
-      icon: 🍉
-    - name: 机场搭建
-      display_name: Sharkbabyの机场搭建
-      icon: 🍟
-    - name: 节点对接
-      display_name: Sharkbabyの节点对接
-      icon: 🍨
-    - name: 演示
-      display_name: Sharkbabyの案例演示笔记
       icon: 🍥
   color_setting:
     text_color: black # 文字默认颜色
