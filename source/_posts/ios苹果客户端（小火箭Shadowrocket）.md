@@ -16,7 +16,7 @@ updated: 2022-12-10 11:11:11
 
 
 ## 1、打开APP Store，点击右上角头像，进入后拉到最下方，退出你自己的账号 
-https://img.alicdn.com/imgextra/i3/2206968693397/O1CN01uOu2QO1axsHOIbdhU_!!2206968693397.png
+ <img src='https://img.alicdn.com/imgextra/i3/2206968693397/O1CN01uOu2QO1axsHOIbdhU_!!2206968693397.png' alt='2b94de3c82c0c40961b6dc8b73878186_1-001.png' />
 
 # 2、更换下方提供的美区苹果ID
 #  [点此处获取商城账号](https://01.35id.xyz/ "点此处获取商城账号") 打开后往下划就能看到账号
