@@ -1,13 +1,3 @@
----
-title: Android - 35id
-tags:
-  - Android - 35id
-categories:
-  - 35id
-swiper_index: 4
-date: 2022-10-10 11:11:11
-updated: 2022-12-10 11:11:11
----
 # ios 小火箭（Shashadowrocket）使用教程
 # 实际非常简单 ==1.下载软件 2.节点导入到小火箭==
 ## 小火箭在中国大陆区已被下架，请使用外区账号在 AppStore 下载。 参考价格：2.99＄==（我们已购买且免费提供）==
